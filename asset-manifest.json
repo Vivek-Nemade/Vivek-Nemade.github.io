@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.77b32ce0.css",
-    "main.js": "/static/js/main.40c4b957.js",
+    "main.css": "/static/css/main.b2da926b.css",
+    "main.js": "/static/js/main.4aebc0cb.js",
     "static/media/Vivek-min2.png": "/static/media/Vivek-min2.04e9bb989421fb24aa9c.png",
     "static/media/Vivek1.JPG": "/static/media/Vivek1.b0d6450deb123077febd.JPG",
     "static/media/loading-79.gif": "/static/media/loading-79.79b307f2942c20fdd6b3.gif",
     "static/media/lifestyle.png": "/static/media/lifestyle.8502119eb80ca70672d2.png",
     "static/media/dot&key.png": "/static/media/dot&key.65088d186be12e5e9b77.png",
     "static/media/Sephora.png": "/static/media/Sephora.2badddee48e658814fe9.png",
+    "static/media/Mythresa.png": "/static/media/Mythresa.66525bc1a09194201bab.png",
     "static/media/cv_meri_gogichashvili.pdf": "/static/media/cv_meri_gogichashvili.82cf02170599d07714c9.pdf",
     "index.html": "/index.html",
-    "main.77b32ce0.css.map": "/static/css/main.77b32ce0.css.map",
-    "main.40c4b957.js.map": "/static/js/main.40c4b957.js.map"
+    "main.b2da926b.css.map": "/static/css/main.b2da926b.css.map",
+    "main.4aebc0cb.js.map": "/static/js/main.4aebc0cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.77b32ce0.css",
-    "static/js/main.40c4b957.js"
+    "static/css/main.b2da926b.css",
+    "static/js/main.4aebc0cb.js"
   ]
 }
