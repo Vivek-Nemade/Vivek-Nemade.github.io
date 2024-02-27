@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d078ab2b.css",
-    "main.js": "/static/js/main.426a3408.js",
+    "main.js": "/static/js/main.803e37a0.js",
     "static/media/Vivek-min2.png": "/static/media/Vivek-min2.04e9bb989421fb24aa9c.png",
     "static/media/Vivek1.JPG": "/static/media/Vivek1.b0d6450deb123077febd.JPG",
     "static/media/loading-79.gif": "/static/media/loading-79.79b307f2942c20fdd6b3.gif",
@@ -9,13 +9,13 @@
     "static/media/dot&key.png": "/static/media/dot&key.65088d186be12e5e9b77.png",
     "static/media/Sephora.png": "/static/media/Sephora.2badddee48e658814fe9.png",
     "static/media/Mythresa.png": "/static/media/Mythresa.66525bc1a09194201bab.png",
-    "static/media/cv_meri_gogichashvili.pdf": "/static/media/cv_meri_gogichashvili.82cf02170599d07714c9.pdf",
+    "static/media/Hound.jpg": "/static/media/Hound.5321ef97d5d8afd57c35.jpg",
     "index.html": "/index.html",
     "main.d078ab2b.css.map": "/static/css/main.d078ab2b.css.map",
-    "main.426a3408.js.map": "/static/js/main.426a3408.js.map"
+    "main.803e37a0.js.map": "/static/js/main.803e37a0.js.map"
   },
   "entrypoints": [
     "static/css/main.d078ab2b.css",
-    "static/js/main.426a3408.js"
+    "static/js/main.803e37a0.js"
   ]
 }
